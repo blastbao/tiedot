@@ -5,8 +5,8 @@ package data
 import (
 	"os"
 
-	"github.com/HouzuoGuo/tiedot/gommap"
-	"github.com/HouzuoGuo/tiedot/tdlog"
+	"github.com/blastbao/tiedot/gommap"
+	"github.com/blastbao/tiedot/tdlog"
 )
 
 // Data file keeps track of the amount of total and used space.

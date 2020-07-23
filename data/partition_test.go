@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/HouzuoGuo/tiedot/dberr"
+	"github.com/blastbao/tiedot/dberr"
 )
 
 func TestPartitionDocCRUD(t *testing.T) {
